@@ -11,3 +11,7 @@ function calculationn(array) {
 }
 
 console.log(calculationn(array));
+
+let newarr = [];
+newarr[10] = 10;
+console.log(newarr[2]);
